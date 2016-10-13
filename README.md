@@ -1,0 +1,1 @@
+Simple javascript to find the multiples of 3 or 5 that are less than 1000 and add them.
